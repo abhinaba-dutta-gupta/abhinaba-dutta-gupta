@@ -23,7 +23,6 @@
 
 ```javascript
 const abhinaba = {
-    location: "Kolkata, India 🇮🇳",
     currentRole: "Frontend Engineer @ Cognizant",
     experience: "5+ years",
     currentFocus: "Actively seeking new opportunities",
@@ -39,7 +38,7 @@ const abhinaba = {
 
 🚀 **Impact:** Delivered features that drove **10% increase** in user satisfaction across major projects
 
-🌱 **Learning:** Exploring advanced React patterns, Web Performance, and Modern CSS architectures
+🌱 **Learning:** Exploring React Native, Web Performance, and Modern CSS architectures
 
 ---
 

@@ -172,7 +172,6 @@ const abhinaba = {
 I'm actively looking for new opportunities to create amazing user experiences. Whether you're hiring, want to collaborate on a project, or just want to chat about frontend development, feel free to reach out!
 
 📧 **Email:** abhinabaduttagupta@gmail.com  
-<!-- 📱 **Phone:** +91 8981002890   -->
 💼 **LinkedIn:** [linkedin.com/in/abhinaba-dutta-gupta](https://www.linkedin.com/in/abhinaba-dutta-gupta)  
 🌐 **Portfolio:** [abhinaba-dutta-gupta.vercel.app](https://abhinaba-dutta-gupta.vercel.app/)
 

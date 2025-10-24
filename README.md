@@ -175,7 +175,7 @@ I'm actively looking for new opportunities to create amazing user experiences. W
 💼 **LinkedIn:** [linkedin.com/in/abhinaba-dutta-gupta](https://www.linkedin.com/in/abhinaba-dutta-gupta)  
 🌐 **Portfolio:** [abhinaba-dutta-gupta.vercel.app](https://abhinaba-dutta-gupta.vercel.app/)
 
-**💼 Open to:** Full-time Frontend Developer/Engineer roles | Remote | Hybrid | On-site (Kolkata/India)
+**💼 Open to:** Full-time Frontend Developer/Engineer roles | Remote | Hybrid | On-site
 
 </div>
 

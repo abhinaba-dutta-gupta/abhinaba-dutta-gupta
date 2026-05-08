@@ -1,6 +1,6 @@
 # Abhinaba Dutta Gupta
 
-**Senior Frontend Engineer** — React.js · TypeScript · Next.js · Tailwind CSS
+**Frontend Engineer** — React.js · TypeScript · Next.js · Tailwind CSS
 
 Frontend engineer with 5+ years building scalable, accessible web applications for enterprise clients across North America. I specialise in React-based UI systems, component architecture, and performance-optimised SPAs. Currently working at Cognizant Technology Solutions on timeshare and vacation ownership platforms.
 
@@ -39,15 +39,21 @@ Contributed to digital features using Salesforce LWC, HTML, and CSS for a real e
 
 ---
 
+## Engineering Focus
+
+- Scalable component architecture
+- Accessibility-first development
+- Performance optimisation
+- Responsive UI systems
+- Maintainable frontend codebases
+
+---
+
 ## Projects
 
-**[Portfolio](https://abhinaba-dutta-gupta.vercel.app)** — Personal site built with Next.js, deployed on Vercel. Showcases frontend work, UI patterns, and engineering approach.
+**[Portfolio](https://abhinaba-dutta-gupta.vercel.app)** — Personal portfolio built with Next.js and Tailwind CSS featuring responsive UI design, reusable component architecture, smooth page transitions, and optimised Lighthouse performance.
 
 **[BatteryReplacementApp](https://github.com/abhinaba-dutta-gupta/BatteryReplacementApp)** — React Native + TypeScript app for tracking battery replacements. Users scan old and new battery QR codes and the app maintains a full replacement history.
-
-**[NoteItDown](https://github.com/abhinaba-dutta-gupta/NoteItDown)** — Mobile notes app built with React Native and Expo, focused on organised, distraction-free note-taking.
-
-**[TriviaTycoon](https://github.com/abhinaba-dutta-gupta/quiz_app)** — React.js trivia game where players answer multiple-choice questions and climb a progressive money ladder.
 
 ---
 
